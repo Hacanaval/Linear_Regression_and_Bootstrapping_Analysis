@@ -1,5 +1,4 @@
 # Linear Regression and Bootstrapping Analysis
-# Linear Regression and Bootstrapping Analysis
 
 ## Project Overview
 This project explores the benefits of using **Linear Regression** and **Bootstrapping** to analyze and predict key business metrics. By leveraging these statistical techniques, we aim to provide data-driven insights that enhance decision-making.
